@@ -9,10 +9,19 @@
 ### Project description
 There are 3 types of feature selection methods:
   * Filter methods.
+     - Basic method.
+     - Correlation method.
+     - Statistical methods ( Information gain / Chi Square / ANOVA ).
   * Wrapper Methods.
+     - Forward selection.
+     - Backward elimination.
+     - Exhaustive search.
   * Embedded Methods.
+     - LASSO Regularization.
+     - Feature importances.
+     
+Here, we are implementing all these methods and compare them all using accuracy matrices.
 
-      
 ### How to Contribute
 Find any typos? Have another resource you think should be included? Contributions are welcome!
 
