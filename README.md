@@ -20,7 +20,7 @@ There are 3 types of feature selection methods:
      - LASSO Regularization.
      - Feature importances.
      
-Here, we are implementing all these methods and compare them all using accuracy matrices.
+Here, we are implementing all these methods and comparing them all using accuracy matrices.
 
 ### How to Contribute
 Find any typos? Have another resource you think should be included? Contributions are welcome!
